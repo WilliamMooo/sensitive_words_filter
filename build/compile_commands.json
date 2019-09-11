@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/codes/sensitiveWords/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/sensitive_word.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\sensitive_word.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\sensitiveWords\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/codes/sensitiveWords/src/main.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/codes/sensitiveWords/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/sensitive_word.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\sensitive_word.dir\\src\\sensitive.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\sensitiveWords\\src\\sensitive.cpp",
+  "file": "C:/Users/96101/Desktop/codes/sensitiveWords/src/sensitive.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/codes/sensitiveWords/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/sensitive_word.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\sensitive_word.dir\\src\\sensitiveWord.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\sensitiveWords\\src\\sensitiveWord.cpp",
+  "file": "C:/Users/96101/Desktop/codes/sensitiveWords/src/sensitiveWord.cpp"
+}
+]

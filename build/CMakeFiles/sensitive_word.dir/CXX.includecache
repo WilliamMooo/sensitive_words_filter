@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/96101/Desktop/codes/sensitiveWords/src/main.cpp
+iostream
+-
+sensitiveWords.h
+C:/Users/96101/Desktop/codes/sensitiveWords/src/sensitiveWords.h
+
+C:/Users/96101/Desktop/codes/sensitiveWords/src/sensitive.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+cstring
+-
+sensitiveWords.h
+C:/Users/96101/Desktop/codes/sensitiveWords/src/sensitiveWords.h
+
